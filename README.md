@@ -1,4 +1,5 @@
 # Claude Code: From Context Engineering to Autonomous Agents
+by Manu Gupta; on 16th March 2026
 
 ---
 
@@ -429,6 +430,7 @@ NEW:  Engineer context → Research → Plan → Implement → Compound
 
 ## Resources
 
+**Context & Fundamentals:**
 - **ACE-FCA Guide:** https://github.com/humanlayer/advanced-context-engineering-for-coding-agents
 - **CLAUDE.md Research (ETH Zurich):** arXiv:2602.11988
 - **Claude Code Docs:** https://code.claude.com/docs
@@ -437,7 +439,27 @@ NEW:  Engineer context → Research → Plan → Implement → Compound
 - **Plugin Marketplace:** https://claude.com/plugins
 - **Agent Teams:** https://code.claude.com/docs/en/agent-teams
 - **Claude Code Best Practice Repo:** https://github.com/shanraisshan/claude-code-best-practice
-- **Awesome Claude Code:** https://github.com/hesreallyhim/awesome-claude-code
+
+**Orchestration:**
+- **Agent Orchestrator (Composio):** https://github.com/ComposioHQ/agent-orchestrator
+
+**Docker / Permission-Free Containers:**
+- **code-container (kevinMEH):** https://github.com/kevinMEH/code-container
+- **claude-code-container (tintinweb):** https://github.com/tintinweb/claude-code-container
+- **claudebox (RchGrav):** https://github.com/RchGrav/claudebox
+- **Docker Sandboxes Blog:** https://www.docker.com/blog/docker-sandboxes-run-claude-code-and-other-coding-agents-unsupervised-but-safely/
+- **Official DevContainer Docs:** https://code.claude.com/docs/en/devcontainer
+
+**Persistent Memory:**
+- **Mem0 — Universal Memory Layer:** https://github.com/mem0ai/mem0
+- **OpenClaw Memory Systems (QMD, Cognee, Obsidian):** https://medium.com/@agentnativedev/openclaw-memory-systems-that-dont-forget-qmd-mem0-cognee-obsidian-4ad96c02c9cc
+
+**History & Ecosystem:**
+- **Claude Code History Viewer (CCHV):** https://github.com/jhlee0409/claude-code-history-viewer
+- **Awesome Agent Skills (VoltAgent):** https://github.com/VoltAgent/awesome-agent-skills
+- **Awesome Claude Code Subagents (VoltAgent):** https://github.com/VoltAgent/awesome-claude-code-subagents
+- **Awesome Claude Code (curated):** https://github.com/hesreallyhim/awesome-claude-code
+- **Awesome Skills Web Directory:** https://awesome-skills.com/
 
 ---
 
