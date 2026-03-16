@@ -1,8 +1,5 @@
 # Claude Code: From Context Engineering to Autonomous Agents
 
-**A 15-Minute Practitioner's Guide**
-*March 2026 — Manu's AI Knowledge-Sharing Group*
-
 ---
 
 ## Agenda
